@@ -1,0 +1,17 @@
+$primary-Color:#3265;
+$font-stack:Helivetica, sans-serif;
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: $primary-Color;
+}
+
+nav{
+    background-color: antiquewhite;
+    padding: 0px;
+    margin: 0%;
+
+    ul{
+        list-style-type: none;
+        display: flex;
+    }
+}
