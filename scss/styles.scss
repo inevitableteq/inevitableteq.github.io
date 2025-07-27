@@ -13,5 +13,15 @@ nav{
     ul{
         list-style-type: none;
         display: flex;
+
+        li{
+            padding: 10px;
+            margin: 20px;
+            color: black;
+
+            a{
+                text-align: center;
+            }
+        }
     }
 }

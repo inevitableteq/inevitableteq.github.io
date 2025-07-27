@@ -12,3 +12,11 @@ nav ul {
   list-style-type: none;
   display: flex;
 }
+nav ul li {
+  padding: 10px;
+  margin: 20px;
+  color: black;
+}
+nav ul li a {
+  text-align: center;
+}
